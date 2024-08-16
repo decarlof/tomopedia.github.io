@@ -4,13 +4,17 @@ title: Mbirjax
 permalink: software/mbirjax/
 ---
 
+Model-Based Iterative Reconstruction (MBIR) for tomographic reconstruction that is based on the [JAX](https://github.com/google/jax) library.
+
 ## Installation
 
-To be added...
+```
+pip install mbirjax
+```
 
 ## Usage
 
-To be added...
+see [github](https://github.com/cabouman/mbirjax).
 
 ## Benchmarks
 
